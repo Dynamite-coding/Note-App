@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="placeholder">#333446</color>
+    <color name="button">#4ED7F1</color>
+    <color name="cream">#FFF2EB</color>
+    <color name="note_color">#ADEED9</color>
+    <color name="note_item_color">#FFF1CA</color>
+    <color name="red">#DA6C6C</color>
+    <color name="lightGrey">#9E9E9E</color>
+    <color name="darkGrey">#143D60</color>
+    <color name="purple">#6750a4</color>
+    <color name="yellow">#F6DD12</color>
+    <color name="lightBrown">#f2c07f</color>
+    <color name="background_blue">#B5F6FD</color>
+    <color name="card_blue">#6EA9EB</color>
+    <color name="card_bluelight">#CEE5F8</color>
+</resources>
